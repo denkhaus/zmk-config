@@ -42,7 +42,7 @@
             //                    | GUI | LWR | SPC | ENT | RSE  | ALT |
 
             bindings = <
-&kp ESC  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &mt DE_U_UMLAUT U  &kp I  &mt DE_O_UMLAUT O  &kp P  &trans  &kp TAB  &mt DE_A_UMLAUT A  &kp S  &kp D  &mt LCTRL F  &mt LEFT_SHIFT G  &mt RIGHT_SHIFT H  &mt RCTRL J  &kp K  &kp L  &trans  &trans  &trans  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &trans  &kp DELETE  &mo 1  &kp SPACE  &kp RET  &mo 2  &kp BACKSPACE
+&kp ESC  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &mt DE_U_UMLAUT U  &kp I  &mt DE_O_UMLAUT O  &kp DE_SZ  &kp PIPE  &kp TAB  &mt DE_A_UMLAUT A  &mt LGUI S  &mt LEFT_ALT D  &mt LCTRL F  &mt LEFT_SHIFT G  &mt RIGHT_SHIFT H  &mt RCTRL J  &mt RIGHT_ALT K  &mt RGUI L  &kp P  &kp AT_SIGN  &trans  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp HASH  &kp DELETE  &mo 1  &kp SPACE  &kp RET  &mo 2  &kp BACKSPACE
             >;
         };
 
