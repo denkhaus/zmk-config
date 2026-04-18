@@ -43,7 +43,7 @@
             //                    | GUI |     | SPC   | ENT |     | ALT |
 
             bindings = <
-&trans  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &trans  &trans  &kp PG_UP  &trans  &trans  &trans  &trans  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp HOME  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp END  &trans  &kp DE_EQUAL  &kp KP_DIVIDE  &kp KP_ASTERISK  &kp KP_MINUS  &kp KP_PLUS  &trans  &trans  &kp PG_DN  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &trans  &trans  &kp PG_UP  &trans  &trans  &trans  &trans  &kp N6  &mt LEFT_ALT N7  &mt LCTRL N8  &mt LSHFT N9  &kp N0  &kp HOME  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp END  &trans  &kp DE_EQUAL  &kp KP_DIVIDE  &kp KP_ASTERISK  &kp KP_MINUS  &kp KP_PLUS  &trans  &trans  &kp PG_DN  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
